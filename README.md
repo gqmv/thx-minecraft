@@ -1,2 +1,2 @@
-# thx-minecraft
-Arquivos relacionados a lista de exercícios Minecraft do The Huxley
+# The Huxley: Minecraft
+Fonte: IF669, CIn, UFPE. Disponivel em https://www.thehuxley.com/group/ipcc-cin-ufpe
